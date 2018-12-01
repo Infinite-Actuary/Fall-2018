@@ -1,2 +1,1 @@
-# Fall-2018
-📅 Semester schedule using Markdeep.
+# 🗓️ Semester schedule using [Markdeep](https://casual-effects.com/markdeep/).
